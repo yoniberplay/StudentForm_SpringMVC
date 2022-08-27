@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+
+h1{
+	color: blue;
+}
+body{
+  background: url(http://wrbbradio.org/wp-content/uploads/2016/10/grey-background-07.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+#table1{
+	
+	border: 2px solid blue;
+	padding: 20px;
+	margin: 10px;
+	}
+	
+
+#enviar{
+	
+  background-color: blue;
+  border: none;
+  color: white;
+ 
+  text-decoration: none;
+  padding: 4px 2px 4px 2px;
+  cursor: pointer;
+  width:100px;
+  
+}
